@@ -1,0 +1,100 @@
+ 
+ #banner {
+     text-align: center;
+
+ }
+
+ #main{
+     text-align: center;
+     position: relative;
+ }
+
+ .first {
+     padding-top: 3em;
+
+ }
+
+ #rightcol {
+     background-color: black;
+     color:white;    
+
+ }
+
+ li{ white;
+     position: absolute;
+     top: 0;
+     right: 0;
+     width: 18%;
+    }
+
+ #rightcol ul{
+             text-align: left;
+
+    }
+
+ #last{
+        padding-bottom: 3em;
+    }
+
+     /* for costumer login page */
+label {
+         font-weight: bold;
+         float: left;
+         width: 27%;
+         margin-right: .5em;
+         text-align: right;
+         
+    }
+fieldset{
+    border: 2px solid #000000;
+
+}
+
+legend{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: .5em;
+
+}
+
+h3{
+    text-align: center;
+    margin: 2em;
+
+
+}
+
+#wrapper{
+    margin: 0;
+    padding: 0;
+
+}
+
+#login{
+    position: absolute;
+    left: 0;
+    width: 40%;
+    padding: 1em 0;
+}
+
+#reg{
+    position: relative;
+    left: 40%;
+    width: 60%;
+    padding: 1em 0;
+
+
+}
+
+#field{
+    padding-bottom: .5em;
+
+}
+
+.errors{
+    font-size: bold;
+    font-style: italic;
+    font-size: 90%;
+    color: red;
+    margin-top: 0;
+}
